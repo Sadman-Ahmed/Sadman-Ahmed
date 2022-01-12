@@ -1,4 +1,14 @@
-### Hi there 👋
+![I am GitHub Readme Generator's creator](https://github.com/Sadman-Ahmed/sadman-ahmed/blob/master/banner.png)
+## Sadman Ahmed
+#### I am UI/UX Designer, trying to be a Full-stack Developer
+<hr>
+
+I'm Sadman from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like Flutter and  Django, as well as work a graphics designer. I also enjoy wireframing, ui, ux, and design in general.
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sadman-ahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sdmn.ahmd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sadman-ahmed.github.io)  
+
+
 
 <!--
 **Sadman-Ahmed/sadman-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
