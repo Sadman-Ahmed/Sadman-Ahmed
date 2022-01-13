@@ -3,7 +3,7 @@
 ### I am UI/UX Designer, trying to be a Full-stack Developer
 <hr>
 
-I'm Sadman from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like Flutter and  Django, as well as work a graphics designer. I also enjoy wireframing, ui, ux, and design in general.
+I'm Sadman from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like Flutter and  Django, as well as I work as a graphics designer also. I also enjoy wireframing, ui, ux, and design in general.
 
 
 ### Languages:
