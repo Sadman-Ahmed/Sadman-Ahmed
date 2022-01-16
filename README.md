@@ -1,4 +1,5 @@
-![I am GitHub Readme Generator's creator](https://github.com/Sadman-Ahmed/sadman-ahmed/blob/master/banner.png)
+<img src = "https://github.com/Sadman-Ahmed/sadman-ahmed/blob/master/banner.png"/>
+
 # Sadman Ahmed
 ### I am UI/UX Designer, trying to be a Full-stack Developer
 <hr>
